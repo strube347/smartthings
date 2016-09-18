@@ -97,7 +97,7 @@ private debug(data){
 }
 
 private getAccessToken() {
-    return "PUT YOUR ACCESS TOKEN IN HERE!!";
+    return "c5c61d44d01b2b91424cab50b1da60231e2833785c916bb3f35e223aa882e73f";
 }
 
 private sendCommand(path, method="GET", body=null) {
